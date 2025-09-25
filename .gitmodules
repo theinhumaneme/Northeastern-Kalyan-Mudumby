@@ -1,0 +1,9 @@
+[submodule "CS5800-Algorithms"]
+	path = CS5800-Algorithms
+	url = git@github.com:theinhumaneme/NEU-CS5800-Algorithms-Kalyan-Mudumby.git
+[submodule "CS5610-WebDevelopment"]
+	path = CS5610-WebDevelopment
+	url = git@github.com:theinhumaneme/cs5610-kambaz-fa-25-kalyan-mudumby.git
+[submodule "CS5610-Final-Project-Social-Network"]
+	path = CS5610-Final-Project-Social-Network
+	url = git@github.com:theinhumaneme/CS5610-social-network-webdev-final-project.git
